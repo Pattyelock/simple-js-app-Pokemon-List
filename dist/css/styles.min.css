@@ -1,0 +1,41 @@
+/* General styles for the application */
+body {
+  background-color: #f8f9fa; /* Light background color */
+}
+
+.container {
+  margin-top: 20px;
+}
+
+/* Custom styles for the Pokémon buttons */
+.pokemon-button {
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+/* Style for the modal image */
+.modal-image {
+  width: 100%;
+  height: auto;
+  max-width: 200px; /* Limit max width of the image */
+}
+
+/* Pokémon list styles */
+.pokemon-list {
+  list-style-type: none; /* Remove default list style */
+  padding: 0; /* Remove padding */
+}
+
+/* Modal custom styles */
+.modal-header {
+  background-color: #007bff; /* Primary color for header */
+  color: white; /* White text for header */
+}
+
+.modal-body {
+  background-color: #ffffff; /* White background for body */
+}
+
+.close {
+  color: white; /* White color for close button */
+}
