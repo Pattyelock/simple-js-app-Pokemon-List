@@ -1,2 +1,2 @@
-# simple-js-app-main-9-main-2
+# simple-js-app-Pokémon
  Pokémon list
